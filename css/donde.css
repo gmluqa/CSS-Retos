@@ -1,0 +1,20 @@
+.tHeads {
+  background-color: green;
+  color: chartreuse;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  background-color: aqua;
+  border-style: outset;
+}
+
+.lightGreen {
+  background-color: chartreuse;
+}
+
+.darkerGreen {
+  background-color: yellowgreen;
+}
